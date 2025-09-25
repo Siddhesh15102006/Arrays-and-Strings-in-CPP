@@ -2,10 +2,9 @@
 # 🧪 Experiment 7 :- Arrays and Strings
 ---
 📘 README: Programming Experiments – Strings and Arrays
-📌 Overview
 
-This experiment covers fundamental operations on Strings and Arrays in programming. These operations are essential for data manipulation, searching, and handling user inputs effectively in any application.
 ---
+
 🔍 Q1. Check if a String is Palindrome or Not
 ✅ Aim
 
